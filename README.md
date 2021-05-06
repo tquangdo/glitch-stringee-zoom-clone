@@ -1,3 +1,16 @@
+# glitch-stringee-zoom-clone 🐳
+
+![License](https://img.shields.io/github/license/tquangdo/glitch-stringee-zoom-clone?color=f05340)
+![demo](demo.png)
+
+## Run
+
+### Connect with Glitch
+- copy paste API key in `api.js`
+![glitch](glitch.png)
+### Run on browser
+- `https://zoom-clone-dotq.glitch.me/`
+
 Welcome to Glitch
 =================
 
