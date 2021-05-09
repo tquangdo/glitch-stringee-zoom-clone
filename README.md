@@ -1,6 +1,6 @@
 # glitch-stringee-zoom-clone 🐳
 
-![License](https://img.shields.io/github/license/tquangdo/glitch-stringee-zoom-clone?color=f05340)
+[![Report an issue](https://img.shields.io/badge/Support-Issues-green)](https://github.com/tquangdo/glitch-stringee-zoom-clone/issues/new)
 ![demo](demo.png)
 
 ## Run
